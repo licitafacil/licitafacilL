@@ -1,0 +1,1 @@
+// gera as declarações com base no edital
